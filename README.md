@@ -5,3 +5,8 @@ The script provides a simple linked list implementation of a graph. It has sever
 - Dijkstra's Algorithm
 - Kruskal's Algorithms
 - Prim's Algorithm
+
+### string.js
+The script implements search algorithms for strings:
+- Bruteforce Search
+- Rabin Karp Search
