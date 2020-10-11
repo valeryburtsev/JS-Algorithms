@@ -1,4 +1,4 @@
-## JS-Algorithms
+## JavaScript Data Structures and Algorithms
 
 ###  graph.js
 The script provides a simple linked list implementation of a graph. It has several methods implementing the following algorithms: 
