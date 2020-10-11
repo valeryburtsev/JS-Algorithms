@@ -244,11 +244,11 @@ const main = () => {
     g.addEdge("E", "F", 8, true)
     g.addEdge("F", "G", 9, true) 
 
-    //g.printGraph()
+    g.printGraph()
     
     g.getDijkstraMST("S")
-    //g.getPrimMST(0)
-    //g.getKruskalMST()
+    g.getPrimMST("S")
+    g.getKruskalMST()
 }
 
 main()
