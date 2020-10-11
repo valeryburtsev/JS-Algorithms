@@ -1,3 +1,5 @@
+// https://github.com/valeryburtsev
+
 class Graph {
     constructor() {
         this.length = 0;
